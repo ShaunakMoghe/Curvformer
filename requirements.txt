@@ -1,0 +1,7 @@
+torch
+transformers
+datasets
+accelerate
+einops
+pytorch-lightning
+wandb
